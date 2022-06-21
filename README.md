@@ -1,8 +1,7 @@
-![image](https://user-images.githubusercontent.com/42575272/140438438-fbdd8ec9-c545-4647-a299-c6edc2344b7a.png)
 
-# Proxy Server Exercise (Lean Tech - Project 44)
+# Proxy Server Exercise
 
-This test is about a simple proxy server that logs the headers of all the HTTP requests ir forwards. For this, I used Java, Spring boot and Zuul Proxy (Spring Cloud Netflix). With Zuul this is very easy to implement because it is perfectly integrated with Spring Boot. The package structure of the project is the following:
+This sample is about a simple proxy server that logs the headers of all the HTTP requests ir forwards. For this, I used Java, Spring boot and Zuul Proxy (Spring Cloud Netflix). With Zuul this is very easy to implement because it is perfectly integrated with Spring Boot. The package structure of the project is the following:
 
 ![image](https://user-images.githubusercontent.com/42575272/140436833-10acd659-704e-46b2-b2b9-2d96443c69e9.png)
 
